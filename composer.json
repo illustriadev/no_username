@@ -1,0 +1,17 @@
+{
+    "name": "illustriadev/no_username",
+    "description": "no_username_test",
+    "version": "1.0.0",
+    "homepage": "https://github.com/illustriadev/no_username",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tomer",
+            "email": "tomer@randomemail.com",
+            "role": "Damn good question"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0"
+    }
+}
